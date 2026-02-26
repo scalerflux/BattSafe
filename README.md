@@ -34,4 +34,4 @@ Most Battery Management Systems (BMS) rely only on temperature sensors for therm
 
 ## 6. Demo Video
 
-
+https://github.com/user-attachments/assets/ab98dbf0-193a-497f-bf35-9dd62f16772f

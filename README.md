@@ -1,12 +1,4 @@
-# BattSafe: EV Battery Intelligence Challenge – Submission Template
-
-Submission Requirements:
-- Structured repository mandatory
-- One-page README summary required
-- Raw dataset required
-- Minimum three validation test cases required
-- Demo video (max 5 minutes) required
-- Explicit usage of VSDSquadron ULTRA mandatory
+# BattSafe: EV Battery Intelligence Challenge
 
 ### Project Title
 Edge-Intelligence Thermal Runaway Prevention Using Multi-Modal Sensor Fusion on VSDSquadron ULTRA
